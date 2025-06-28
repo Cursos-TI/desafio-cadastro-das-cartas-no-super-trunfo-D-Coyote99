@@ -57,8 +57,8 @@ int main(){
     printf("\n");
 
     //Exibindo os dados das cartas
-    printf("Carta1 \n");
-    printf("Estado: %s", estado1);
+    printf("\nCarta1");
+    printf("\nEstado: %s", estado1);
     printf("\nCódigo da carta: %s", codigo_carta1);
     printf("\nNome da cidade: %s", nome_cidade1);
     printf("\nPopulação: %d", populacao1);
